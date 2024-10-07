@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+</head>
+<body>
+    <div class="nm">
+        <iframe id="bb" src="./dashbord1.html" frameborder="0"></iframe>
+    <div class="main">
+
+        
+        </iframe>
+       
+        <div class="main0"> 
+            <span onclick="cl()" class="material-symbols-outlined aaa">
+            arrow_back_ios
+            </span>
+            <span onclick="cl1()" class="material-symbols-outlined bbb">
+                arrow_forward_ios
+                </span>
+</div>
+        <div class="main1">
+            <p>Role</p>
+            <p class="p1">:    Admin</p>
+        </div>
+        <div class="main2">
+            <span class="material-symbols-outlined cht">
+                chat
+                </span>
+                <span class="material-symbols-outlined noti">
+                    notifications
+                    </span>
+                    <div class="main21">
+                        <span class="material-symbols-outlined pow">
+                            power_settings_new
+                            </span>
+                        <button class="bt"><p class="p2">LogOut</p></button>
+                    </div>
+        </div>
+    </div>
+</div>
+</body>
+<style>
+    *
+    {
+        margin: 0;
+        padding: 0;
+    }
+    .p2
+    {
+        font-size: 13px;
+        font-weight: 900;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .pow
+    {
+        font-size: 18px;
+        color: red;
+        font-weight: 900;
+    }
+    .cht
+    {
+        color: green;
+    }
+    .noti
+    {
+        color: green;
+    }
+    .p1
+    {
+        font-size: 17px;
+        font-weight: bold;
+        color: green;
+    }
+    .aaa
+    {
+        opacity: 0.30;
+        width: 15px;
+        height: 5px;
+        font-size: 20px;
+    }
+    .bbb
+    {
+        opacity: 0.30;
+        width: 15px;
+        height: 5px;
+        font-size: 20px;
+    }
+    .nm
+    {
+        width: 100%;
+        height: 600px;
+        /* background-color: blueviolet; */
+        display: flex;
+    }
+    .bb
+    {
+        width:250px;
+        height: 100%;
+    }
+    .main
+    {
+        width: 100%;
+        height: 60px;
+        box-shadow: 0px 1px 5px;
+        display: flex;
+        align-items: center;
+    }
+    .main0
+    {
+        width: 70%;
+    }
+    .main1
+    {
+        width: 25%;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .main2
+    {
+        width:25%;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+
+    }
+    .main21
+    {
+        width: 50%;
+        height: 30px;
+        border: 2px solid orange;
+        border-radius: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .bt
+    {
+        border: 1px solid white;
+        background-color: white;
+    }
+</style>
+<script>
+    let a=document.getElementById('bb')
+    let a1=document.getElementById('aaa')
+    let a2=document.getElementById('bbb')
+    function cl()
+    {
+        a.style.display='none';
+        a1.style.display='none';
+    }
+    function cl1()
+    {
+        a.style.display='block';
+    }
+</script>
+</html>

@@ -1,0 +1,398 @@
+.img1
+    {
+        height: 550px;
+    }
+    .fsrw
+    {
+        height: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    } 
+    .aaa
+    {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .bbb
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(104, 0, 0);
+    }
+    .p1
+    {
+        font-size: 50px;
+        font-weight: 900;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: white;
+    }
+    p{
+        font-size: 15px;
+        font-weight: bold;
+        color: brown;
+    }
+    .bt1
+    {
+        width: 200px;
+        height: 40px;
+        border: 1px solid white;
+        border-radius: 15px;
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+        color: brown;
+    }
+    .p2
+    {
+        font-size: 25px;
+        font-weight: 900;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: black;
+    }
+    .p3
+    {
+        font-size:30px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: black;
+    }
+    .p4
+    {
+        font-size: 15px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: black;
+    }
+    .gap
+    {
+        height: 100px;
+    }
+    .gap1
+    {
+        height: 200px;
+    }
+    .mm
+    {
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+    }
+    .ab
+    {
+        height: 200px;
+        border: 10px solid brown;
+        border-radius: 50px;
+        background-size: cover;
+        background-image: url('./qwerty/240_F_678292108_VlKOHGgzIaRlyFkcEkinpzPpgHeyVLPg.jpg');
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .ab11
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        border: 10px solid brown;
+        border-radius: 50px;
+        background-size: cover;
+        background-image: url('./qwerty/best-rucksacks-in-india-under-5000-rs-for-trekking-and-camping.webp');
+    }
+    .ab21
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        border: 10px solid brown;
+        border-radius: 50px;
+        background-size: cover;
+        background-image: url('./qwerty/240_F_761635677_QctLiRfpneNzUKwaZbtoEHnW14lHpBMb.jpg');
+    }
+    .ab31
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        border: 10px solid brown;
+        border-radius: 50px;
+        background-size: cover;
+        background-image: url('./qwerty/backpack-hiking-shoes-mountain-ai-generated-image_268835-6566.avif');
+    }
+    .ab41
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        border: 10px solid brown;
+        border-radius: 50px;
+        background-size: cover;
+        background-image: url('./qwerty/240_F_871612870_l4QI5vgo5gZIY3noDsCk13IruiRhpdcD.jpg');
+    }
+    .ab1
+    {
+        width: 200px;
+        height: 200px;
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 50px;
+    }
+    .ss
+    {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .dd
+    {
+        background-image: url('./Travel/wallpaperflare.com_wallpaper\ \(14\).jpg');
+        background-size: cover;
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .p5
+    {
+        font-size: 25px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(255, 255, 255);
+    }
+    .p6
+    {
+        font-size: 15px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(255, 255, 255);
+    }
+    .p7
+    {
+        font-size: 25px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(0, 0, 0);
+    }
+    .p8
+    {
+        font-size: 20px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(0, 0, 0);
+    }
+    .p9
+    {
+        font-size: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(0, 0, 0);
+    }
+    .bt2
+    {
+        width: 200px;
+        height: 30px;
+        background-color: brown;
+        border: 1px solid brown;
+        border-radius: 10px;
+        color: white;
+    }
+    .rr
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .p10
+    {
+        font-size: 30px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(0, 0, 0);
+    }
+    .p11
+    {
+        font-size: 13px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(0, 0, 0);
+    }
+
+
+    .ig
+    {
+        background-image: url('./qwerty/240_F_678292108_VlKOHGgzIaRlyFkcEkinpzPpgHeyVLPg.jpg');
+        height: 230px;
+        background-size: cover;
+    }
+    .ig1
+    {
+        background-image: url('./qwerty/240_F_754360519_1Z85rS7pJpde44tkkZU2wStWwIc9vi5A.jpg');
+        height: 230px;
+        background-size: cover;
+    }
+    .ig2
+    {
+        background-image: url('./qwerty/240_F_761635677_QctLiRfpneNzUKwaZbtoEHnW14lHpBMb.jpg');
+        height: 230px;
+        background-size: cover;
+    }
+    .ig3
+    {
+        background-image: url('./qwerty/240_F_871612870_l4QI5vgo5gZIY3noDsCk13IruiRhpdcD.jpg');
+        height: 230px;
+        background-size: cover;
+    }
+    .ig4
+    {
+        background-image: url('./qwerty/outdoor-travel-equipment-planning-mountain-trekking-camping-trip_926199-4054211.avif');
+        height: 230px;
+        background-size: cover;
+    }
+    .ig5
+    {
+        background-image: url('./qwerty/images.jpg');
+        height: 230px;
+        background-size: cover;
+    }
+    .tt
+    {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .sss{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .p12
+    {
+        font-size: 25px;
+        font-weight: 900;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+    }
+    .p13
+    {
+        font-size: 15px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+    }
+
+    .vv
+    {
+        height: 250px;
+        background-color: aqua;
+
+    }
+    .vv1
+    {
+        height: 250px;
+        background-color: aqua;
+
+    }
+
+    .vv2
+    {
+        height: 250px;
+        background-color: aqua;
+
+    }
+    .nn
+    {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .oo
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .pppp
+    {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .p14
+    {
+        font-size: 25px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+    }
+    .p14
+    {
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+    }
+    .btn1
+    {
+        width: 200px;
+        height: 40px;
+        background-color: brown;
+        border: 1px solid brown;
+        border-radius: 10px;
+        color: white;
+    }
+    .btn11
+    {
+        width: 200px;
+        height: 40px;
+        background-color: white;
+        border: 1px solid white;
+        border-radius: 10px;
+        color: rgb(0, 0, 0);
+        opacity: 0.70;
+        font-size: 20px;
+        font-weight: 900;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .ii
+    {
+        height: 270px;
+    }
+
+
+
+
+    @media screen and (max-width : 800px) {
+
+        .p8
+    {
+        font-size: 15px;
+        font-weight: bold;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(0, 0, 0);
+    }
+    .p9
+    {
+        font-size: 7px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(0, 0, 0);
+    }
+    .bt2
+    {
+        width: 80px;
+        height: 15px;
+        background-color: brown;
+        border: 1px solid brown;
+        border-radius: 5px;
+        color: white;
+        font-size: 10px;
+    }
+    }
